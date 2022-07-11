@@ -1,0 +1,23 @@
+{
+  "name": "readmerepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaajarbinks/readmerepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaajarbinks/readmerepo/issues"
+  },
+  "homepage": "https://github.com/Jaajarbinks/readmerepo#readme",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "description": ""
+}
